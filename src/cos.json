@@ -1,0 +1,22 @@
+{
+    "text": [
+        {
+            "usluga":"Uzyskać legitymację drukowaną"
+        },
+        {
+            "usluga":"Uzyskać kod do mLegitymacj"
+        },
+        {
+            "usluga":"Zrestartować hasło do konta MS"
+        },
+        {
+            "usluga":"Zaświadczenie z sekretariatu"
+        },
+        {
+            "usluga":"Złożyć wniosek o stypendium"
+        },
+        {
+            "usluga":"Zgłosić sprawę nie umieszczoną na powyższej liście"
+        }
+    ]
+}
